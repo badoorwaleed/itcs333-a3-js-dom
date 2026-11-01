@@ -3,7 +3,7 @@
 // Requirements: add / toggle-complete / delete / filter / counter,
 // using event delegation on #todo-list.
 // TODO: your code here
-
+// Trigger autograde after enabling GitHub Actions
 
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("todo-form");
